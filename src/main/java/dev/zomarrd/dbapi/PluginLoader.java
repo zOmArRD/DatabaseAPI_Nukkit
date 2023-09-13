@@ -13,5 +13,6 @@ import cn.nukkit.plugin.PluginBase;
 
 public class PluginLoader extends PluginBase {
     @Override
-    public void onEnable() {}
+    public void onEnable() {
+    }
 }
