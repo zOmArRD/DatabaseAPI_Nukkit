@@ -154,3 +154,7 @@ EXAMPLES IN THIS LINK
 Developers can utilize the `Database` class to interact with their database systems efficiently. It allows for asynchronous execution of queries and provides callbacks for handling results or errors, making it a versatile tool for database operations in their applications.
 
 Please note that this documentation provides an overview of the `Database` class and its methods. Developers should refer to the class implementation and their specific database documentation for more details on usage and configuration.
+
+## Credits
+
+Inspired by [sqlNukkitLib](https://github.com/Ragnok123/sqlNukkitLib)
