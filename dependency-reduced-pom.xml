@@ -20,7 +20,6 @@
                 <includes>
                   <include>org.mariadb.jdbc:mariadb-java-client</include>
                   <include>com.mysql:mysql-connector-j</include>
-                  <include>org.xerial:sqlite-jdbc</include>
                 </includes>
                 <excludes>
                   <exclude>cn.nukkit:nukkit</exclude>
