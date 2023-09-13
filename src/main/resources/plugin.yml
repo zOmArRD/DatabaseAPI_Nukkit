@@ -1,0 +1,6 @@
+name: DatabaseAPI
+description: The ultimate API for managing and connecting to your database
+version: 1.0.0
+main: dev.zomarrd.dbapi.PluginLoader
+api: 1.0.0
+author: zOmArRD
