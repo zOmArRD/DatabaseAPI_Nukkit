@@ -2,6 +2,8 @@
 
 The ultimate API for managing and connecting to your database
 
+Please see the [documentation](documentation.md)
+
 ## What can I do with the API?
 
 You can add the .jar to the server, and to work with the API, simply add it to your dependency.
